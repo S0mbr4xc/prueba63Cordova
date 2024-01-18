@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+#cedulaForm {
+    margin-top: 20px;
+}
+
+#cedulaInput {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
